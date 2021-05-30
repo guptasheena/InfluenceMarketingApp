@@ -39,7 +39,7 @@
     "passport-jwt": "^4.0.0",
     "path": "^0.12.7",
     "shelljs": "^0.8.4",
-    "ws": "^7.2.3"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
